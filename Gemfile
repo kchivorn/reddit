@@ -17,6 +17,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'jquery-rails'
+gem 'acts_as_votable', '~> 0.10.0'
 
 group :development, :test do
   gem 'capybara', '~> 2.13'
